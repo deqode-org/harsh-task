@@ -1,12 +1,11 @@
 import React from "react";
-import "./App.css";
+import { Route, BrowserRouter as Router } from "react-router-dom";
+import Dashboard from "./Pages/Dashboard";
 
-const App = () => {
-  return (
-    <div className="App">
-      APP
-    </div>
-  );
-}
+const App = () => (
+  <Router>
+    <Route path="/" component={Dashboard} />
+  </Router>
+);
 
 export default App;
