@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harsh-task/static/css/main.a114d3dd.chunk.css",
+    "main.js": "/harsh-task/static/js/main.708d6378.chunk.js",
+    "main.js.map": "/harsh-task/static/js/main.708d6378.chunk.js.map",
+    "runtime-main.js": "/harsh-task/static/js/runtime-main.64862033.js",
+    "runtime-main.js.map": "/harsh-task/static/js/runtime-main.64862033.js.map",
+    "static/js/2.eccaac33.chunk.js": "/harsh-task/static/js/2.eccaac33.chunk.js",
+    "static/js/2.eccaac33.chunk.js.map": "/harsh-task/static/js/2.eccaac33.chunk.js.map",
+    "index.html": "/harsh-task/index.html",
+    "precache-manifest.86c7dce0b7930ac302af54735241fe36.js": "/harsh-task/precache-manifest.86c7dce0b7930ac302af54735241fe36.js",
+    "service-worker.js": "/harsh-task/service-worker.js",
+    "static/css/main.a114d3dd.chunk.css.map": "/harsh-task/static/css/main.a114d3dd.chunk.css.map",
+    "static/js/2.eccaac33.chunk.js.LICENSE.txt": "/harsh-task/static/js/2.eccaac33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64862033.js",
+    "static/js/2.eccaac33.chunk.js",
+    "static/css/main.a114d3dd.chunk.css",
+    "static/js/main.708d6378.chunk.js"
+  ]
+}
